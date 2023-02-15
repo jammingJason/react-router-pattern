@@ -1,0 +1,20 @@
+.nav{
+    padding:.5rem;
+    background-color: rgb(23, 131, 4);
+    text-align: center;
+}
+.nav a{
+    margin: 20px;
+    color: white;
+    
+}
+
+.nav a.active{
+    color:rgb(23, 131, 4);
+    background-color: white;
+}
+
+.navDiv{
+    border: 2px solid red;
+
+}
